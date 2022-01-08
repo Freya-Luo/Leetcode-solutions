@@ -1,6 +1,10 @@
 package LC_937_ReorderDataInLogFiles;
 import java.util.Arrays;
+import java.util.Comparator;
 
+/**
+ * Time: O(M * NlogN), where M is the max len of the log
+ */
 class Solution {
     public String[] reorderLogFiles(String[] logs) {
         
