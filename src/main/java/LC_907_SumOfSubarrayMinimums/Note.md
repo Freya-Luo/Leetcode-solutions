@@ -4,9 +4,17 @@
     - Basically, same idea when keeping the **monotonous** property of the `stack/queue`
         - this one -> mono increasing order
         - `239` -> mono decreasing order
-    - But, why not using `i` in stack `(e.g., rightCnt - i)`?
+    - But, why not using `i` in stack `(e.g., rightCnt - i)` to <u>get the length</u>?
         - because the no.of prev left/right numbers that get `pop()` is needed
-        - still need a 2nd entry to record this count - once pop out, `i` info will be lost
+          - not just at the `window` boundary, but also eles within that
+        - So, still need a 2nd entry to record this count -- once pop out, `i` info will be lost
+          - e.g., `[3, 1, 2, 4]` starting from <u>right</u>
+            ```
+            when calculating 1 (index 1), stack only has index 2 -- which is 2;
+            => This is because 4 is popped out when looping i = 2 (i=n-1 -> 0)
+            
+            So, leftCnt & rightCnt is pushed and then popped out during the process to collect(sum up) the info
+            ```
 
 **Solution - Monotonic Stack**
 - Key: `res[i] = sum(arr[i], F(i))`
