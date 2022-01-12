@@ -2,6 +2,7 @@
 
 | Problem|  Solution | Note | Level  | 
 |:---|:---:|:---:|:---:|
+|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java]() | MonoStack / DP(Bidir find_max) | M |
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
 |[370. Range Addition](https://leetcode.com/problems/range-addition/)|[Java]()| Prefix Sum | <span style="color:coral ">M</span> |
 |[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Java]()| Sort, then DFS / DP | <span style="color:Blue   ">H</span>|
@@ -13,7 +14,8 @@
 |[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|[Java]()|Sliding Window (count 1's)|<span style="color:coral ">M</span>|
 |[1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Java]()|Brute force O(m<sup>3</sup>)|<span style="color:coral ">M</span>|
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Java]()| PQ | <span style="color:coral ">M</span>|
-|  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
+|[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
+|[1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)| [Java]() | Sort + PQ(Greedy) | M |
 |[1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)| [Java]() | PQ / Bucket Sort | <span style="color:coral ">M</span> |
 |[1628. Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)| [Java]() | Stack + OOP | <span style="color:coral ">M</span> |
 |[1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|[Java]()| Sort / PQ + Math| <span style="color:coral ">M</span>|
