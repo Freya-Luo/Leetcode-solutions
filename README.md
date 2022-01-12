@@ -19,6 +19,6 @@
 |[1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)| [Java]() | PQ / Bucket Sort | <span style="color:coral ">M</span> |
 |[1628. Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)| [Java]() | Stack + OOP | <span style="color:coral ">M</span> |
 |[1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|[Java]()| Sort / PQ + Math| <span style="color:coral ">M</span>|
-| [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/solution/)  | [Java]()  | Sort + Greedy  | <span style="color:lightgreen">E</span>  |   
-
+|[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/solution/)  | [Java]()  | Sort + Greedy  | <span style="color:lightgreen">E</span>  |   
+|[1730. Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/)| [Java]() | BFS | M |
 
