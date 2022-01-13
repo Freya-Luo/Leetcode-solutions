@@ -13,6 +13,7 @@
 |[907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)| [Java]() | Monotonic Stack (Bidir) | <span style="color:coral ">M</span> | 
 |[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java]()| Prefix Sum / DP| <span style="color:coral ">M</span> |
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)   | Custom Comparator  | <span style="color:lightgreen">E</span>  |   
+|[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Java]()|Sliding window(AtMost(k)- AtMost(k-1)) | H|
 |[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java]()|BFS| M|
 |[1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Java]()| UF(Kruskal's Algo) |<span style="color:coral ">M</span>|
 |[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|[Java]()|Sliding Window (count 1's)|<span style="color:coral ">M</span>|
