@@ -25,6 +25,7 @@
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
 |[1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)| [Java]() | Sort + PQ(Greedy) | M |
 |[1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)| [Java]() | PQ / Bucket Sort | <span style="color:coral ">M</span> |
+|[1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)|[Java]()|DP (posLen+negLen arrays/vars) | M|
 |[1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|[Java]()|HashMap | M|
 |[1628. Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)| [Java]() | Stack + OOP | <span style="color:coral ">M</span> |
 |[1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|[Java]()| Sort / PQ + Math| <span style="color:coral ">M</span>|
