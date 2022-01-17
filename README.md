@@ -3,6 +3,7 @@
 | Problem|  Solution | Note | Level  | 
 |:---|:---:|:---:|:---:|
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java]() | MonoStack / DP(Bidir find_max) | M |
+|[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java]()| Stack | M|
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java]() | BFS/ Bidir BFS | H|
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
 |[370. Range Addition](https://leetcode.com/problems/range-addition/)|[Java]()| Prefix Sum | <span style="color:coral ">M</span> |
