@@ -2,7 +2,7 @@
 **Solution - Prefix Sum + Binary Search**
 - Example to illustrate
 ```aidl
-[1,2,3,4,3]
+// [1,2,3,4,3]
 => preSum = [1, 3, 6, 10, 13], totalSum = 13
 
 - for i=0, range is {0,0} <=> index=0, range is <1
