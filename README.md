@@ -7,6 +7,7 @@
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
 |[370. Range Addition](https://leetcode.com/problems/range-addition/)|[Java]()| Prefix Sum | <span style="color:coral ">M</span> |
 |[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Java]()| Sort, then DFS / DP | <span style="color:Blue   ">H</span>|
+|[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Java]()| PreSum + BS | M|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/) |[Java]() | Space-separated Insertion | M |
 |[828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)  |  [Java](https://leetcode.com/problems/reorder-data-in-log-files/) | Last & SecondToLast index - occurrence of char `c`  | <span style="color:Blue   ">H</span> | 
 |[863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| [Java]() | BFS/DFS (rotate node's depth)| M| 
