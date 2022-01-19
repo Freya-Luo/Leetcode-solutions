@@ -1,6 +1,6 @@
 package lc_651_700.LC_669_TrimABinarySearchTree;
 
-public class TreeNode {
+class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;

@@ -28,6 +28,7 @@
 |[1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Java]()|Brute force O(m<sup>3</sup>)|<span style="color:coral ">M</span>|
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Java]()| PQ | <span style="color:coral ">M</span>|
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
+|[1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Java]()| Post-order | M|
 |[1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)| [Java]() | Sort + PQ(Greedy) | M |
 |[1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)| [Java]() | PQ / Bucket Sort | <span style="color:coral ">M</span> |
 |[1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)|[Java]()|DP (posLen+negLen arrays/vars) | M|
