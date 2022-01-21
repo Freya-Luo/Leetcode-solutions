@@ -5,11 +5,20 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-class Solution_DFS {
+// In this way, I feel this solution can also be considered as DP solution
+class Solution_DFS_DP0 {
+    /**
+     * Time: O(n^2)
+     * @param des destination stone
+     * @param map <Stone, JumpUnit> map: record each jump unit happens at this stone
+     * @param curStone current stone
+     * @param jump current jump unit
+     * @return
+     */
     private boolean dfs(int des, Map<Integer, Set<Integer>> map, int curStone, int jump) {
         if (curStone == des) return true;
 
-        if (jump <= 0)  return false;
+        if (jump <= 0)  return false; // !!! Don't forget
 
         if (!map.containsKey(curStone) || map.get(curStone).contains(jump))
             return false;
@@ -23,6 +32,7 @@ class Solution_DFS {
                 }
             }
         }
+        // all the `k-1, k , k+1` possibilities failed, record this jump k at stone S
         map.get(curStone).add(jump);
         return false;
     }
