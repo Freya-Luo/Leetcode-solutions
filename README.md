@@ -7,6 +7,7 @@
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java]()| DFS(Backtracking) | M |
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java]() | BFS/ Bidir BFS | H|
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
+|[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |
 |[339. Nested List Weight Sum]()|[Java]()|DFS/BFS| M|
 |[364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[Java]()|DFS/BFS| M|
 |[370. Range Addition](https://leetcode.com/problems/range-addition/)|[Java]()| Prefix Sum | <span style="color:coral ">M</span> |
@@ -26,6 +27,7 @@
 |[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java]()| Prefix Sum / DP| <span style="color:coral ">M</span> |
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)   | Custom Comparator  | <span style="color:lightgreen">E</span>  |   
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java]() | MaxPQ / Quick Select | M |
+|[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Java]() | DFS + Greedy (count balance coins) | M |
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java]()| BFS/DFS + PQ/Map(sort) | H|
 |[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Java]()|Sliding window(AtMost(k)- AtMost(k-1)) | H|
 |[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java]()|BFS| M|
