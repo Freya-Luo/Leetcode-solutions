@@ -7,6 +7,7 @@
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java]()| DFS(Backtracking) | M |
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java]() | BFS/ Bidir BFS | H|
 |[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java]()| Binary Search | M |
+|[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java]()| Binary Search | H |
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |
 |[339. Nested List Weight Sum]()|[Java]()|DFS/BFS| M|
