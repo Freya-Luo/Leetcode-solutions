@@ -9,6 +9,7 @@
 |[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java]()| Binary Search | M |
 |[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java]()| Binary Search | H |
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
+|[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Java]() | Merge Sort / BITree| H|
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |
 |[339. Nested List Weight Sum]()|[Java]()|DFS/BFS| M|
 |[364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[Java]()|DFS/BFS| M|
