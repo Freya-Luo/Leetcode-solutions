@@ -23,6 +23,7 @@
 |[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java]()| Binary Search | M |
 |[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java]()| Post-order Trim | M|
 |[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Java]() | Post-order (choose path) | M |
+|[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java]()| DFS | M |
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Java]()| Double Linked List | M |
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java]() | BFS | M|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/) |[Java]() | Space-separated Insertion | M |
