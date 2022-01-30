@@ -28,6 +28,7 @@
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Java]()| Double Linked List | M |
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java]() | BFS | M|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/) |[Java]() | Space-separated Insertion | M |
+|[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java]() | DFS / Topological Sort(reverse edges) | M |
 |[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java]() | DFS (label & connect) | H |
 |[828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)  |  [Java](https://leetcode.com/problems/reorder-data-in-log-files/) | Last & SecondToLast index - occurrence of char `c`  | <span style="color:Blue   ">H</span> | 
 |[863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| [Java]() | BFS/DFS (rotate node's depth)| M| 
@@ -35,6 +36,7 @@
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java]()| Count Imbalance | M |
 |[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java]()| Prefix Sum / DP| <span style="color:coral ">M</span> |
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)   | Custom Comparator  | <span style="color:lightgreen">E</span>  |   
+|[952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Java]()| UF + Prime Factors | H |
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java]() | MaxPQ / Quick Select | M |
 |[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Java]() | DFS + Greedy (count balance coins) | M |
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java]()| BFS/DFS + PQ/Map(sort) | H|
