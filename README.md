@@ -31,6 +31,7 @@
 |[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java]() | DFS / Topological Sort(reverse edges) | M |
 |[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java]() | DFS (label & connect) | H |
 |[828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)  |  [Java](https://leetcode.com/problems/reorder-data-in-log-files/) | Last & SecondToLast index - occurrence of char `c`  | <span style="color:Blue   ">H</span> | 
+|[839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/)|[Java]()| DFS | H |
 |[863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| [Java]() | BFS/DFS (rotate node's depth)| M| 
 |[907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)| [Java]() | Monotonic Stack (Bidir) | <span style="color:coral ">M</span> | 
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java]()| Count Imbalance | M |
