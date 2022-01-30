@@ -40,6 +40,7 @@
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java]() | MaxPQ / Quick Select | M |
 |[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Java]() | DFS + Greedy (count balance coins) | M |
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java]()| BFS/DFS + PQ/Map(sort) | H|
+|[990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Java]() | UF(1st `==` then `!=`) | M |
 |[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Java]()|Sliding window(AtMost(k)- AtMost(k-1)) | H|
 |[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java]()|BFS| M|
 |[1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Java]()| UF(Kruskal's Algo) |<span style="color:coral ">M</span>|
