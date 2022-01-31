@@ -29,6 +29,7 @@
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java]() | BFS | M|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/) |[Java]() | Space-separated Insertion | M |
 |[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java]() | DFS / Topological Sort(reverse edges) | M |
+|[815. Bus Routes](https://leetcode.com/problems/bus-routes/)|[Java]()| BFS (stop & routes) | H|
 |[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java]() | DFS (label & connect) | H |
 |[828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)  |  [Java](https://leetcode.com/problems/reorder-data-in-log-files/) | Last & SecondToLast index - occurrence of char `c`  | <span style="color:Blue   ">H</span> | 
 |[839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/)|[Java]()| DFS | H |
