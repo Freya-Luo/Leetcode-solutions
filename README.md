@@ -24,6 +24,7 @@
 |[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [Java]() | DFS base on N not (i, j) | M |
 |[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java]()| Post-order Trim | M|
 |[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java]()| Union Find | M|
+|[685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Java]()| Union Find (2 parents & cycle) | H|
 |[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Java]() | Post-order (choose path) | M |
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java]()| DFS | M |
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Java]()| Double Linked List | M |
