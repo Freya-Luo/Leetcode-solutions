@@ -53,6 +53,7 @@
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Java]()| PQ | <span style="color:coral ">M</span>|
 |[1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)| [Java]() | BFS (nested, box & player) | H |
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
+|[1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Java]()|Union Find | M|
 |[1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Java]()| Post-order | M|
 |[1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)| [Java]() | Sort + PQ(Greedy) | M |
 |[1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)| [Java]() | PQ / Bucket Sort | <span style="color:coral ">M</span> |
