@@ -31,6 +31,7 @@
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java]() | BFS | M|
 |[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Java]()| Djikstra | M|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/) |[Java]() | Space-separated Insertion | M |
+|[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Java]()| Djikstra / Bellman-Ford | M|
 |[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java]() | DFS / Topological Sort(reverse edges) | M |
 |[815. Bus Routes](https://leetcode.com/problems/bus-routes/)|[Java]()| BFS (stop & routes) | H|
 |[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java]() | DFS (label & connect) | H |
