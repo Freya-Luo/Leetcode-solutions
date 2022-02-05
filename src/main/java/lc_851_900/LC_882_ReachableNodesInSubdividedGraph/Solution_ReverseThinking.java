@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.PriorityQueue;
 
 class Solution_ReverseThinking {
+    // Time: O(ElogN): E:length of the edges
+    // Space: O(E)
     public int reachableNodes(int[][] edges, int maxMoves, int n) {
         Map<Integer, Map<Integer, Integer>> adjList = new HashMap<>();
         for(int[] e: edges) {
@@ -17,7 +19,7 @@ class Solution_ReverseThinking {
 
         int[] dist = new int[n];
         Arrays.fill(dist, -1);
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[1] - a[1]);
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[1] - a[1]);  // store max -> min as reversed
         pq.offer(new int[]{0, maxMoves}); // curnode, distleft
 
         int res = 0;
@@ -35,7 +37,7 @@ class Solution_ReverseThinking {
                 int w = adjList.get(curnode).get(ni);
 
                 int distLeftNi= distleft - (w + 1);
-                if (dist[ni] == -1 && distLeftNi >= 0) {
+                if (dist[ni] == -1 && distLeftNi >= 0) { // !! == 0 cannot be ignored
                     pq.offer(new int[]{ni, distLeftNi});
                 }
             }

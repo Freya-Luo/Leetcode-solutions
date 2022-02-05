@@ -30,14 +30,14 @@ class Solution_DirectThinking {
             int curnode = cur[0], curdist = cur[1];
 
             if (dist[curnode] != -1) continue;
-            dist[curnode] = curdist;
+            dist[curnode] = curdist; // mark as DONE, curdist is the shortest for curnode
             res++;
 
             if(!adjList.containsKey(curnode)) continue;
             for(int ni : adjList.get(curnode).keySet()) {
                 int w = adjList.get(curnode).get(ni);
-                String edgeSym = "" + curnode + "," + ni;
-                edgeCnt.put(edgeSym, Math.min(w, maxMoves - curdist));
+                String edgeSym = "" + curnode + "," + ni;  // edge symbol for counting the used time
+                edgeCnt.put(edgeSym, Math.min(w, maxMoves - curdist));  // min distance this node can reach on this edge
 
                 int distFromSrc = curdist + w + 1;
                 if (dist[ni] == -1 && distFromSrc <= maxMoves) {
