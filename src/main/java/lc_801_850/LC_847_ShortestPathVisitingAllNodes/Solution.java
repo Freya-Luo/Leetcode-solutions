@@ -28,6 +28,9 @@ class Solution {
             return val * 31 + curBitmask;  // unique number generated for 2 ints
         }
     }
+    // Time: O(2^N * N^2) -- 2^N possibilities for bitmask and for each N , and loop N times
+    // --- can really be this much ? Fully connected graph
+    // Space: O(2^N * N) max in Set<Node> seen
     public int shortestPathLength(int[][] graph) {
         // Encoding each node to a specifc status
         int n  = graph.length;
