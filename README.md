@@ -11,6 +11,7 @@
 |[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java]()| Binary Search | H |
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
 |[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Java]() | Merge Sort / BITree| H|
+|[332. Reconstruct Itinerary](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)|[Java]()|DFS/Eulerian Path | H|
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |
 |[339. Nested List Weight Sum]()|[Java]()|DFS/BFS| M|
 |[364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[Java]()|DFS/BFS| M|
@@ -57,6 +58,7 @@
 |[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|[Java]()|Sliding Window (count 1's)|<span style="color:coral ">M</span>|
 |[1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Java]()|Brute force O(m<sup>3</sup>)|<span style="color:coral ">M</span>|
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Java]()| PQ | <span style="color:coral ">M</span>|
+|[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Java]()| UF | M |
 |[1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)| [Java]() | BFS (nested, box & player) | H |
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
 |[1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Java]()|Union Find | M|
