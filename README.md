@@ -48,6 +48,7 @@
 |[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java]()| Prefix Sum / DP| <span style="color:coral ">M</span> |
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)   | Custom Comparator  | <span style="color:lightgreen">E</span>  |   
 |[952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Java]()| UF + Prime Factors | H |
+|[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Java]()| Scale up grid + DFS | M |
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java]() | MaxPQ / Quick Select | M |
 |[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Java]() | DFS + Greedy (count balance coins) | M |
 |[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java]()| Backtrack | H|
