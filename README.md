@@ -43,6 +43,7 @@
 |[863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| [Java]() | BFS/DFS (rotate node's depth)| M| 
 |[864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)|[Java]()|BFS w/ Bitmask | H|
 |[882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[Java]()|Djikstra (count edges used times/count left moves) | H|
+|[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java]()| DFS/BFS coloring | M |
 |[907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)| [Java]() | Monotonic Stack (Bidir) | <span style="color:coral ">M</span> | 
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java]()| Count Imbalance | M |
 |[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java]()| Prefix Sum / DP| <span style="color:coral ">M</span> |
