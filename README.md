@@ -48,6 +48,7 @@
 |[907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)| [Java]() | Monotonic Stack (Bidir) | <span style="color:coral ">M</span> | 
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java]()| Count Imbalance | M |
 |[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java]()| Prefix Sum / DP| <span style="color:coral ">M</span> |
+|[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Java]()|DP|M|
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)   | Custom Comparator  | <span style="color:lightgreen">E</span>  |   
 |[952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Java]()| UF + Prime Factors | H |
 |[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Java]()| Scale up grid + DFS | M |
