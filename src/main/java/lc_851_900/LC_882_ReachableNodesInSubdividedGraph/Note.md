@@ -1,14 +1,14 @@
 ### Thinking
 **Solution - Direct Thinking**
 - Logic
-  - Djikstra's Algo
+  - Dijkstra's Algo
     - used to find all the reachable nodes
     - ALSO, keep track of how much times the edge is used
     - then, the total nodes would be `sum(edge used time) + no.of ori nodes can be reached`
   - `dist[i]` to record the shortest distance for each node
     - Also, it marks the `seen/visited` nodes
 ###### Note
-  - Typical Djikstra Algo
+  - Typical Dijkstra Algo
   ```js
   // seudo code
   function dijkstra(G, S)
@@ -33,7 +33,8 @@
        - init as `-1`, so to check if the node is seen
        - when **setting `dist[i]`** to some value, **this value is guaranteed to be the shortest** distance from this `src` to this node
          - then, <u>after</u> this step, we can <u>safely mark</u> `curndoe` as `seen`
-    - variants of Djikstra
+    - variants of Dijkstra
+    - variants of Dijkstra
       - not just find each node's shortest distance, but some `sum` with constraints
     - BUT:
       - this way, `PQ` may take more space as the same `curnode` might be offered into `PQ` multiple times with differ `curdist`

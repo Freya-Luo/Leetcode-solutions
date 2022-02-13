@@ -11,7 +11,7 @@
 |[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java]()| Binary Search | H |
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
 |[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Java]() | Merge Sort / BITree| H|
-|[332. Reconstruct Itinerary](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)|[Java]()|DFS/Eulerian Path | H|
+|[332. Reconstruct Itinerary](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_301_350/LC_332_ReconstructItinerary)|DFS/Eulerian Path | H|
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |
 |[339. Nested List Weight Sum]()|[Java]()|DFS/BFS| M|
 |[364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[Java]()|DFS/BFS| M|
@@ -30,9 +30,9 @@
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java]()| DFS | M |
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Java]()| Double Linked List | M |
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java]() | BFS | M|
-|[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Java]()| Djikstra | M|
+|[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_701_750/LC_743_NetworkDelayTime/Solution.java)| Dijkstra | M|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/) |[Java]() | Space-separated Insertion | M |
-|[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Java]()| Djikstra / Bellman-Ford | M|
+|[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_751_800/LC_787_CheapestFlightsWithinKStops)| Dijkstra / Bellman-Ford | M|
 |[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java]() | DFS / Topological Sort(reverse edges) | M |
 |[815. Bus Routes](https://leetcode.com/problems/bus-routes/)|[Java]()| BFS (stop & routes) | H|
 |[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java]() | DFS (label & connect) | H |
@@ -42,7 +42,7 @@
 |[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Java]()| BFS w/ Bitmask |H|
 |[863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| [Java]() | BFS/DFS (rotate node's depth)| M| 
 |[864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)|[Java]()|BFS w/ Bitmask | H|
-|[882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[Java]()|Djikstra (count edges used times/count left moves) | H|
+|[882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_851_900/LC_882_ReachableNodesInSubdividedGraph)|Dijkstra (count edges used times/count left moves) | H|
 |[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java]()| DFS/BFS coloring | M |
 |[907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)| [Java]() | Monotonic Stack (Bidir) | <span style="color:coral ">M</span> | 
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java]()| Count Imbalance | M |
@@ -59,16 +59,17 @@
 |[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java]()|BFS| M|
 |[996. Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)|[Java]()|Backtrack | H|
 |[1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|[Java]()| DFS/ Greedy coloring | M|
-|[1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Java]()| UF(Kruskal's Algo) |<span style="color:coral ">M</span>|
+|[1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_1101_1150/LC_1135_ConnectingCitiesWithMinimumCost)| UF(Kruskal's Algo) |<span style="color:coral ">M</span>|
 |[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|[Java]()|Sliding Window (count 1's)|<span style="color:coral ">M</span>|
 |[1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Java]()|Brute force O(m<sup>3</sup>)|<span style="color:coral ">M</span>|
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Java]()| PQ | <span style="color:coral ">M</span>|
-|[1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)| [Java]() |Tarjan' Algo / lowdist[] | H|
+|[1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)| [Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_1151_1200/LC_1192_CriticalConnectionsInANetwork) |Tarjan' Algo / lowdist[] | H|
 |[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Java]()| UF | M |
 |[1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)| [Java]() | BFS (nested, box & player) | H |
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
 |[1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Java]()|Union Find | M|
 |[1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Java]()| Post-order | M|
+|[1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[Java]()|Dijkstra / Floyd | M|
 |[1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)| [Java]() | Sort + PQ(Greedy) | M |
 |[1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)| [Java]() | PQ / Bucket Sort | <span style="color:coral ">M</span> |
 |[1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)|[Java]()|DP (posLen+negLen arrays/vars) | M|

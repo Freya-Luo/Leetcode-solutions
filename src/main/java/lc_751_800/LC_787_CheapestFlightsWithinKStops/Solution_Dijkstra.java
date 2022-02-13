@@ -2,7 +2,7 @@ package lc_751_800.LC_787_CheapestFlightsWithinKStops;
 
 import java.util.*;
 
-class Solution_Djikstra {
+class Solution_Dijkstra {
     // Time: O((V + E) * logV) : (V + E): total no.of poll() & offer() operations before K levels
     // Space: O(n)
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {

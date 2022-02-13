@@ -3,7 +3,7 @@ package lc_701_750.LC_743_NetworkDelayTime;
 import java.util.*;
 
 class Solution {
-    // Djikstra algo: find the shortest path for covering all nodes
+    // Dijkstra algo: find the shortest path for covering all nodes
     public int networkDelayTime(int[][] times, int n, int k) {
         // <from, list of to>
         Map<Integer, List<int[]>> map = new HashMap<>();

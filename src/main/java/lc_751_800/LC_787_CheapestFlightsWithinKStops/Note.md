@@ -1,9 +1,9 @@
 ### Thinking
-**Solution - Djikstra**
+**Solution - Dijkstra**
 - Logic:
   - typical template solution, HOWEVER, here 2 variables should be considered
     - `distance[] & stop[]`
-  - Meaning of `PQ` in Djikstra
+  - Meaning of `PQ` in Dijkstra
     - it keeps all the **promising possibilities**
       - the `if (curcost + next[1] < cost[next[0]])` prune the searching steps which can also be omitted, however, would increase the time complexity
         - all the `next` fail this check is guaranteed it cannot lead to the shortest path
