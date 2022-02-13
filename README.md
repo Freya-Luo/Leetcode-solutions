@@ -5,6 +5,7 @@
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java]() | MonoStack / DP(Bidir find_max) | M |
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java]()| Stack | M|
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java]()| DP / Mono stack | H|
+|[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java]()| DP / Mono stack | H|
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java]()| DFS(Backtracking) | M |
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java]() | BFS/ Bidir BFS | H|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java]() | Insertion List Sort| M |
