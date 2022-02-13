@@ -67,6 +67,7 @@
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Java]()| PQ | <span style="color:coral ">M</span>|
 |[1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)| [Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_1151_1200/LC_1192_CriticalConnectionsInANetwork) |Tarjan' Algo / lowdist[] | H|
 |[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Java]()| UF | M |
+|[1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Java]()| DP | M|
 |[1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)| [Java]() | BFS (nested, box & player) | H |
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/solution/) | [Java](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Sort + BS | <span style="color:coral ">M</span>  |   
 |[1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Java]()|Union Find | M|
