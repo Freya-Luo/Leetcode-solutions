@@ -6,14 +6,15 @@
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java]()| Stack | M|
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java]()| DP / Mono stack | H|
 |[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java]()| DP / Mono stack | H|
-|[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java]()| DFS(Backtracking) | M |
-|[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java]() | BFS/ Bidir BFS | H|
-|[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java]() | Insertion List Sort| M |
-|[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java]()| Binary Search | M |
+|[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_113_PathSumII/Solution.java)| DFS(Backtracking) | M |
+|[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_101_150/LC_127_WordLadder) | BFS/ Bidir BFS | H|
+|[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_147_InsertionSortList/Solution.java) | Insertion List Sort| M |
+|[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_153_FindMinimumInRotatedSortedArray/Solution.java)| Binary Search | M |
 |[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java]()| Binary Search | H |
 |[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java]()|DFS (top-down w/ memo) / DP (bottom-up)| H|
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
 |[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java]()| DP (matrix sum) | M|
+|[309. Best Time to Buy and Sell Stock with Cooldown]()|[Java]() | DP w/ State Machine | M|
 |[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Java]() | Merge Sort / BITree| H|
 |[332. Reconstruct Itinerary](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_301_350/LC_332_ReconstructItinerary)|DFS/Eulerian Path | H|
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |

@@ -1,4 +1,4 @@
-package lc_101_150.LC_154._FindMinimumInRotatedSortedArrayII;
+package lc_101_150.LC_154_FindMinimumInRotatedSortedArrayII;
 
 class Solution {
     // Time: O(logN)
