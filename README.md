@@ -37,6 +37,7 @@
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Java]()| Double Linked List | M |
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java]() | BFS | M|
 |[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_701_750/LC_743_NetworkDelayTime/Solution.java)| Dijkstra | M|
+|[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java]()|DP |E|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/) |[Java]() | Space-separated Insertion | M |
 |[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_751_800/LC_787_CheapestFlightsWithinKStops)| Dijkstra / Bellman-Ford | M|
 |[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Java]()|DP (two filling states) | M|
