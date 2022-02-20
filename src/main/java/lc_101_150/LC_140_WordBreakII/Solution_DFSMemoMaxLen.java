@@ -2,6 +2,12 @@ package lc_101_150.LC_140_WordBreakII;
 
 import java.util.*;
 
+// Time: O(N^2 + 2^N + W) = O(2^N) -- W: no.of words in the dictionary
+// N: length of string, in the worst case, "aaaaa", ["a", "aa", "aaa", "aaaa", "aaaaa"]
+// each prefix k will have 2^(k - 1) possibilities, so sum(2^(k - 1)) (k = 0, ... n) = O(2^k)
+
+// Space: O(N * 2^N + N + W) = O(2^N * N + W)
+// N for the map key, 2^N for the possible solutions and for each solution, needs N space
 class Solution_DFSMemoMaxLen {
     private Map<Integer, List<String>> map = new HashMap<>();
 
@@ -17,14 +23,15 @@ class Solution_DFSMemoMaxLen {
         }
 
         for(int i = cur; i < cur + maxLen && i < s.length(); i++) {
-            String prev = s.substring(cur, i + 1);
-            if (!set.contains(prev)) continue;
+            String prefix = s.substring(cur, i + 1);
+            if (!set.contains(prefix)) continue;
 
             List<String> temp = dfs(s, set, i + 1, maxLen);
             for(String each: temp) {
-                if (each.equals("")) res.add(prev);
-                else res.add(prev + " " + each);
+                if (each.equals("")) res.add(prefix);
+                else res.add(prefix + " " + each);
             }
+            /** Invalid concatenation condition */
             // if (temp.size() != 0) {
             //     for(String each: temp) {
             //         res.add(prev + " " + each);

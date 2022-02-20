@@ -2,6 +2,12 @@ package lc_101_150.LC_140_WordBreakII;
 
 import java.util.*;
 
+// Time: O(N^2 + 2^N + W) = O(2^N) -- W: no.of words in the dictionary
+// N: length of string, in the worst case, "aaaaa", ["a", "aa", "aaa", "aaaa", "aaaaa"]
+// each prefix k will have 2^(k - 1) possibilities, so sum(2^(k - 1)) (k = 0, ... n) = O(2^k)
+
+// Space: O(N * 2^N + N^2 + W) = O(2^N * N^2 + W)
+// N^2 for the map key, 2^N for the possible solutions and for each solution, needs N space
 class Solution_DFSMemo {
     private Map<String, List<String>> map = new HashMap<>();
 
