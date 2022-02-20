@@ -9,6 +9,7 @@
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_113_PathSumII/Solution.java)| DFS(Backtracking) | M |
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_101_150/LC_127_WordLadder) | BFS/ Bidir BFS | H|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Java]()|DP|M|
+|[140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java]()| DFS w/ HashMap DP | H|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_147_InsertionSortList/Solution.java) | Insertion List Sort| M |
 |[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_153_FindMinimumInRotatedSortedArray/Solution.java)| Binary Search | M |
 |[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java]()| Binary Search | H |
