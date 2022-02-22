@@ -33,6 +33,7 @@
 |[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java]()| Binary Search | M |
 |[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [Java]() | DFS base on N not (i, j) | M |
 |[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java]()| Post-order Trim | M|
+|[673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Java]()|DP (LIS) / Brute force | M|
 |[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java]()| Union Find | M|
 |[685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Java]()| Union Find (2 parents & cycle) | H|
 |[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Java]() | Post-order (choose path) | M |
