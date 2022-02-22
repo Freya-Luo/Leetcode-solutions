@@ -15,13 +15,14 @@
 |[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java]()| Binary Search | H |
 |[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java]()|DFS (top-down w/ memo) / DP (bottom-up)| H|
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java]()| Deque (Descending queue)/ Bidir loop | <span style="color:Blue   ">H</span> |
-|[279. Perfect Squares]()|[Java]() | DP / BFS| M|
+|[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java]() | DP / BFS| M|
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java]()| DP (LIS)|M|
 |[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java]()| DP (matrix sum) | M|
 |[309. Best Time to Buy and Sell Stock with Cooldown]()|[Java]() | DP w/ State Machine | M|
 |[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Java]() | Merge Sort / BITree| H|
 |[332. Reconstruct Itinerary](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_301_350/LC_332_ReconstructItinerary)|DFS/Eulerian Path | H|
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |
-|[339. Nested List Weight Sum]()|[Java]()|DFS/BFS| M|
+|[339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Java]()|DFS/BFS| M|
 |[364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[Java]()|DFS/BFS| M|
 |[370. Range Addition](https://leetcode.com/problems/range-addition/)|[Java]()| Prefix Sum | <span style="color:coral ">M</span> |
 |[403. Frog Jump](https://leetcode.com/problems/frog-jump/)|[Java]()|DFS/DP(HashMap, Array)| H |
