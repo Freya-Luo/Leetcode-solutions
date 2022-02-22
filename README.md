@@ -37,6 +37,7 @@
 |[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java]()| Union Find | M|
 |[685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Java]()| Union Find (2 parents & cycle) | H|
 |[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Java]() | Post-order (choose path) | M |
+|[688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Java]()|DP (2d + 1d step) | M|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java]()| DFS | M |
 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Java]()| Double Linked List | M |
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java]() | BFS | M|
