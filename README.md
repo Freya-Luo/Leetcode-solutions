@@ -6,6 +6,7 @@
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java]()| Stack | M|
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java]()| DP / Mono stack | H|
 |[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java]()| DP / Mono stack | H|
+|[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java]()|DP|M|
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_113_PathSumII/Solution.java)| DFS(Backtracking) | M |
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_101_150/LC_127_WordLadder) | BFS/ Bidir BFS | H|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Java]()|DP|M|
@@ -50,6 +51,7 @@
 |[801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Java]()| DP (swap[]/noswap[]) | H|
 |[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java]() | DFS / Topological Sort(reverse edges) | M |
 |[815. Bus Routes](https://leetcode.com/problems/bus-routes/)|[Java]()| BFS (stop & routes) | H|
+|[818. Race Car](https://leetcode.com/problems/race-car/)|[Java]()| DP / DFS w/ Memo | H|
 |[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java]() | DFS (label & connect) | H |
 |[828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)  |  [Java](https://leetcode.com/problems/reorder-data-in-log-files/) | Last & SecondToLast index - occurrence of char `c`  | <span style="color:Blue   ">H</span> | 
 |[839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/)|[Java]()| DFS | H |
