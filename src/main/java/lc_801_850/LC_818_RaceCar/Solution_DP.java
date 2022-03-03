@@ -1,6 +1,7 @@
 package lc_801_850.LC_818_RaceCar;
 
 class Solution_DP {
+    // O(N * (logN)^2)
     public int racecar(int target) {
         int[] dp = new int[target + 1];
 

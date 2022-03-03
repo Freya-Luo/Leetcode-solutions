@@ -3,6 +3,7 @@ package lc_801_850.LC_818_RaceCar;
 import java.util.Arrays;
 
 class Solution_DFS {
+    // O(N * (logN)^2)
     private int dfs(int t, int[] dp) {
         if (dp[t] != Integer.MAX_VALUE) {
             return dp[t];

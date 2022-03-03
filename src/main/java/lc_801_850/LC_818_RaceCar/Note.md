@@ -1,0 +1,14 @@
+### Thinking
+- Logic:
+  - get the position of the car before the reverse instruction, denoted as `j = 2^ji - 1`, `ji` is the number of `A`s
+  - `dp[n]` represents the shortest instructions needed to move car from `0` to `n`, direction points to right
+  - `j < i (target)`: it turns back at `j` which direction points away from the target `i`
+    - need to wait for the 2nd reverse => assume the next sequence of `A` is `ki` and end up at position `j-k`, where `k = 2^ki - 1`
+    - if car moves from `j - k` to `i`, applying the sub-problem logic, which is `dp[i - (j - k)]`, points to right
+    - the total no.of instructions: `ji + 1 + ki + 1 + dp[i - (j - k)]`
+  - `j == i`, the total number is just `ji`
+  - `j > i`: it turns back after target `i`
+    - it points towards `i`
+    - if car moves from `j` to `i`, applying the sub-problem logic, which is `dp[j - i]`, points to left (both swap)
+    - the total no.of instructions: `ji + 1 + dp[j - i)]`
+- **DFS (Top-down) && DP(Bottom-up)**
