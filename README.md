@@ -3,6 +3,7 @@
 | Problem|  Solution | Note | Level  | 
 |:---|:---:|:---:|:---:|
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java]() | MonoStack / DP(Bidir find_max) | M |
+|[44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)}[Java]()| Backtrack / DP| H|
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java]()| Stack | M|
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java]()| DP / Mono stack | H|
 |[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java]()| DP / Mono stack | H|
