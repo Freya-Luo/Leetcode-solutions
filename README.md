@@ -34,6 +34,7 @@
 |[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Java]()| PreSum + BS | M|
 |[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java]()| Binary Search | M |
 |[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [Java]() | DFS base on N not (i, j) | M |
+|[583. Delete Operation for Two Strings]()|[Java]()| DP| M|
 |[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java]()| Post-order Trim | M|
 |[673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Java]()|DP (LIS) / Brute force | M|
 |[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java]()| Union Find | M|

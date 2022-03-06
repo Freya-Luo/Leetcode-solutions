@@ -1,6 +1,6 @@
 package lc_1_50.LC_44_WildcardMatching;
 
-class Solution {
+class Solution_Backtrack {
     // Time: avg O(SlogP);  worst case: O(S * P)
     // Space: O(1)
     public boolean isMatch(String s, String p) {
