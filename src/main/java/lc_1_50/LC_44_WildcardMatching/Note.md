@@ -24,6 +24,6 @@
       - A.1: either they actually are equal
       - A.2: or `p[i]` is `?` that can match any single char
     - case B: if `p[i] == '*'`, then
-      - B.1: if `dp[i - 1][j]` means we can add 1 more `*` as it can represent an empty string
+      - B.1: if `dp[i - 1][j]` means `*` represents an empty string `""`
       - B.2: if `dp[i][j - 1]` means we can add 1 more char for the `*`'s matched part
     
