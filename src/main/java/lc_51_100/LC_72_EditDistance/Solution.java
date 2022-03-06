@@ -1,4 +1,4 @@
-package lc_1_50.LC_72_EditDistance;
+package lc_51_100.LC_72_EditDistance;
 
 class Solution {
     // O(mn)
@@ -15,7 +15,7 @@ class Solution {
                 if (word1.charAt(i - 1) == word2.charAt(j - 1)) {
                     dp[i][j] = dp[i - 1][j - 1];
                 } else {
-                    // delete i, insert j, and replacement
+                    // delete i, delete j, and replacement (delete & insert are symmetric)
                     dp[i][j] = Math.min(dp[i - 1][j], Math.min(dp[i][j - 1], dp[i - 1][j - 1])) + 1;
                 }
             }

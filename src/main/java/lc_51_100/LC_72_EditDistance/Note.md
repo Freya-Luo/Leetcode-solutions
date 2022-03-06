@@ -9,5 +9,5 @@
     - if `s[i] == s[j]`, nothing changes, the same result as `dp[i - 1][j - 1]`
     - else 3 operations can be made, choose the min one
       - op1: delete `i` in `s1`, which should has the result from `dp[i - 1][j] + 1`
-      - op2: insert `j` in `s2`, which should has the result from `dp[i][j - 1] + 1`
+      - op2: delete `j` in `s2`, which should has the result from `dp[i][j - 1] + 1`
       - op3: replacement one of `i` and `j`, which should has the result from `dp[i - 1][j - 1] + 1`

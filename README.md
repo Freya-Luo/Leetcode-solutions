@@ -3,12 +3,13 @@
 | Problem|  Solution | Note | Level  | 
 |:---|:---:|:---:|:---:|
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java]() | MonoStack / DP(Bidir find_max) | M |
-|[44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java]()| Backtrack / DP| H|
+|[44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java]()| Backtrack / DP (add 1 more char to `*` to check)| H|
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java]()| Stack | M|
-|[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java]()|DP | H |
+|[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java]()|DP (delete (insert) / replace )| H |
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java]()| DP / Mono stack | H|
 |[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java]()| DP / Mono stack | H|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java]()|DP|M|
+|[97. Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Java]()| DP `s3[k] from s1[i]/s2[j]` | M|
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/blob/Java/src/main/java/lc_101_150/LC_113_PathSumII/Solution.java)| DFS(Backtracking) | M |
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_101_150/LC_127_WordLadder) | BFS/ Bidir BFS | H|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Java]()|DP|M|

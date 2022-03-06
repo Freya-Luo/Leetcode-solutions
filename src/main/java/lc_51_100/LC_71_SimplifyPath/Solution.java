@@ -1,4 +1,4 @@
-package lc_1_50.LC_71_SimplifyPath;
+package lc_51_100.LC_71_SimplifyPath;
 
 import java.util.Stack;
 
