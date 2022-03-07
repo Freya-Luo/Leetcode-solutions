@@ -3,8 +3,9 @@
 | Problem|  Solution | Note | Level  | 
 |:---|:---:|:---:|:---:|
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java]() | MonoStack / DP(Bidir find_max) | M |
-|[44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)}[Java]()| Backtrack / DP| H|
+|[44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java]()| Backtrack / DP| H|
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java]()| Stack | M|
+|[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java]()|DP | H |
 |[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java]()| DP / Mono stack | H|
 |[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java]()| DP / Mono stack | H|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java]()|DP|M|
@@ -34,7 +35,7 @@
 |[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Java]()| PreSum + BS | M|
 |[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java]()| Binary Search | M |
 |[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [Java]() | DFS base on N not (i, j) | M |
-|[583. Delete Operation for Two Strings]()|[Java]()| DP| M|
+|[583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Java]()| DP| M|
 |[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java]()| Post-order Trim | M|
 |[673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Java]()|DP (LIS) / Brute force | M|
 |[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java]()| Union Find | M|
