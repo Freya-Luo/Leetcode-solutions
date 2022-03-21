@@ -22,7 +22,8 @@
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java]() | DP / BFS| M|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java]()| DP (LIS)|M|
 |[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java]()| DP (matrix sum) | M|
-|[309. Best Time to Buy and Sell Stock with Cooldown]()|[Java]() | DP w/ State Machine | M|
+|[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java]() | DP w/ State Machine | M|
+|[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java]()|DP|H|
 |[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Java]() | Merge Sort / BITree| H|
 |[332. Reconstruct Itinerary](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_301_350/LC_332_ReconstructItinerary)|DFS/Eulerian Path | H|
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java]() | DFS (int[] return w/o Memo) / (map with memo) | M |
