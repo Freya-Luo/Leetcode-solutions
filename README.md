@@ -54,6 +54,7 @@
 |[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Java]()|DP (two filling states) | M|
 |[801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Java]()| DP (swap[]/noswap[]) | H|
 |[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java]() | DFS / Topological Sort(reverse edges) | M |
+|[813. Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[Java]()|DP / DFS + memo | M|
 |[815. Bus Routes](https://leetcode.com/problems/bus-routes/)|[Java]()| BFS (stop & routes) | H|
 |[818. Race Car](https://leetcode.com/problems/race-car/)|[Java]()| DP / DFS w/ Memo | H|
 |[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java]() | DFS (label & connect) | H |
