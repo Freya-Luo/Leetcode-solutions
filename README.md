@@ -31,6 +31,7 @@
 |[364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[Java]()|DFS/BFS| M|
 |[370. Range Addition](https://leetcode.com/problems/range-addition/)|[Java]()| Prefix Sum | <span style="color:coral ">M</span> |
 |[403. Frog Jump](https://leetcode.com/problems/frog-jump/)|[Java]()|DFS/DP(HashMap, Array)| H |
+|[410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Java]()| DP / Binary Search | H|
 |[426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Java]()|In-order traversal | M |
 |[437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) |[Java]() | DFS + Prefix Sum | M |
 |[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Java]()| Sort, then DFS / DP | <span style="color:Blue   ">H</span>|
@@ -85,6 +86,7 @@
 |[1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|[Java]()| DFS/ Greedy coloring | M|
 |[1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[Java]()|DP (look for each in the pre level)|M|
 |[1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_1101_1150/LC_1135_ConnectingCitiesWithMinimumCost)| UF(Kruskal's Algo) |<span style="color:coral ">M</span>|
+|[1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Java]()| DP (postSum) | M|
 |[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|[Java]()|Sliding Window (count 1's)|<span style="color:coral ">M</span>|
 |[1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Java]()|Brute force O(m<sup>3</sup>)|<span style="color:coral ">M</span>|
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Java]()| PQ | <span style="color:coral ">M</span>|
