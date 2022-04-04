@@ -83,6 +83,7 @@
 |[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Java]()|Sliding window(AtMost(k)- AtMost(k-1)) | H|
 |[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java]()|BFS| M|
 |[996. Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)|[Java]()|Backtrack | H|
+|[1024. Video Stitching](https://leetcode.com/problems/video-stitching/)|[Java]()|Greedy, extend `e` in `[s, e]` | M|
 |[1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|[Java]()| DFS/ Greedy coloring | M|
 |[1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[Java]()|DP (look for each in the pre level)|M|
 |[1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Java](https://github.com/Freya-Luo/Leetcode-solutions/tree/Java/src/main/java/lc_1101_1150/LC_1135_ConnectingCitiesWithMinimumCost)| UF(Kruskal's Algo) |<span style="color:coral ">M</span>|
