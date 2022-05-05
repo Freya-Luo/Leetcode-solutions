@@ -1,0 +1,16 @@
+**Solution**
+- Mono Stack
+  - Intuition
+    - key variant: always keep the stack monotonic property **before inserting** a new element
+    - if pop **smaller** before pushing, the stack is **decreasing** (keep larger ones in the stack)
+    - if pop **larger** before pushing, the stack is **increasing**
+  - here, find "next" smaller ones boundary
+    - need to pop "smaller" ones, so <u>decreasing</u> mono stack
+    - why NOT reverse?
+      - if `new price` is smaller than `top()`, we cannot ensure it is useless in the future;
+      - however, if is larger, then we can ensure it is useless `(as already set an boundary)`
+    - keep the record of the **previous found value** by introducing 2nd element
+---
+- WHEN to use `Mono Stack`?
+  - when finding `Next Largest/Smallest` element
+  - when finding `Max/Min in a Sliding Window`
