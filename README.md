@@ -131,3 +131,4 @@
 |[1891. Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/)|[Java]()|                   Binary Search                    | M | 
 |[1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)|[Java]()|    DP, dp\[i - 1\] stores the comparison result    | M|
 |[2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|[Java]()|             LCA + DFS w/ Backtracking              | M|
+|[2128. Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/)|[Java]()| Math, 0110 == 0110 == 1001 | M|
