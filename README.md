@@ -28,6 +28,7 @@
 |                          301. Remove Invalid Parentheses                          |                BFS (node storing whole string)                |
 |                        304. Range Sum Query 2D - Immutable                        |                        DP (matrix sum)                        |                  
 |                309. Best Time to Buy and Sell Stock with Cooldown                 |                      DP w/ State Machine                      |      
+|                         311. Sparse Matrix Multiplication                         |                    store (row, 1's index)                     |
 |                                312. Burst Balloons                                |                              DP                               |         
 |                     315. Count of Smaller Numbers After Self                      |                      Merge Sort / BITree                      |    
 |                     317. Shortest Distance from All Buildings                     | BFS, decrement visisted cells to represent the x-th round BFS | 
