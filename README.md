@@ -71,6 +71,7 @@
 |                                  716. Max Stack                                   |                 Double Linked List + TreeMap                  |
 |                                721. Accounts Merge                                |                 Union Find (union list index)                 | 
 |                                  733. Flood Fill                                  |                              BFS                              |              
+|                              735. Asteroid Collision                              |                     Stack `- + collision`                     |
 |                              743. Network Delay Time                              |                           Dijkstra                            |        
 |                               740. Delete and Earn                                |                         DP by TreeMap                         |              
 |                           746. Min Cost Climbing Stairs                           |                              DP                               |                 
