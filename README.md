@@ -132,6 +132,7 @@
 |                    1648. Sell Diminishing-Valued Colored Balls                    |                       Sort / PQ + Math                        | 
 |                          1710. Maximum Units on a Truck                           |                         Sort + Greedy                         | 
 |                          1730. Shortest Path to Get Food                          |                              BFS                              |    
+|                  1868. Product of Two Run-Length Encoded Arrays                   |                         Two Pointers                          |
 |                               1891. Cutting Ribbons                               |                         Binary Search                         | 
 |                     1937. Maximum Number of Points with Cost                      |         DP, dp\[i - 1\] stores the comparison result          | 
 |         2096. Step-By-Step Directions From a Binary Tree Node to Another          |                   LCA + DFS w/ Backtracking                   | 
