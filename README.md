@@ -50,6 +50,7 @@
 |                           539. Minimum Time Difference                            |                       Time wrap around                        | 
 |                       540. Single Element in a Sorted Array                       |                         Binary Search                         |                
 |                             547. Number of Provinces                              |                   DFS base on N not (i, j)                    |              
+|                  562. Longest Line of Consecutive One in Matrix                   |       3D DP `3rd dimension stores max in 4 directions`        |
 |                       583. Delete Operation for Two Strings                       |                              DP                               |               
 |                         636. Exclusive Time of Functions                          |                       stack (func call)                       | 
 |                          669. Trim a Binary Search Tree                           |                        Post-order Trim                        |            
@@ -102,6 +103,7 @@
 |                     992. Subarrays with K Different Integers                      |            Sliding window(AtMost(k)- AtMost(k-1))             |            
 |                               994. Rotting Oranges                                |                              BFS                              |              
 |                          996. Number of Squareful Arrays                          |                           Backtrack                           |         
+|                          1004. Max Consecutive Ones III                           |                        Sliding window                         |
 |                               1024. Video Stitching                               |                Greedy, extend `e` in `[s, e]`                 |         
 |                      1042. Flower Planting With No Adjacent                       |                     DFS/ Greedy coloring                      |             
 |                   1011. Capacity To Ship Packages Within D Days                   |                    BS (calc for each mid)                     |                    
