@@ -23,6 +23,7 @@
 |                         199. Binary Tree Right Side View                          |                              DFS                              | 
 |                            239. Sliding Window Maximum                            |             Deque (Descending queue)/ Bidir loop              | 
 |                            249. Group Shifted Strings                             |                          Hash String                          | 
+|                               269. Alien Dictionary                               |    Topological Sort `only edged 1st non-matched char pair`    | 
 |                               279. Perfect Squares                                |                           DP / BFS                            |    
 |                        300. Longest Increasing Subsequence                        |                           DP (LIS)                            |         
 |                          301. Remove Invalid Parentheses                          |                BFS (node storing whole string)                |
