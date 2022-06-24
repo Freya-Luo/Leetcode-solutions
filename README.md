@@ -125,6 +125,7 @@
 |                      1325. Delete Leaves With a Given Value                       |                          Post-order                           |             
 | 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance |                       Dijkstra / Floyd                        |    
 |                1353. Maximum Number of Events That Can Be Attended                |                       Sort + PQ(Greedy)                       |        
+|                     1428. Leftmost Column with at Least a One                     |                   Top-Right move 2 pointers                   |
 |              1481. Least Number of Unique Integers after K Removals               |                       PQ / Bucket Sort                        |  
 |              1567. Maximum Length of Subarray With Positive Product               |                DP (posLen+negLen arrays/vars)                 |   
 |                      1570. Dot Product of Two Sparse Vectors                      |                            HashMap                            |             
