@@ -137,4 +137,5 @@
 |                               1891. Cutting Ribbons                               |                         Binary Search                         | 
 |                     1937. Maximum Number of Points with Cost                      |         DP, dp\[i - 1\] stores the comparison result          | 
 |         2096. Step-By-Step Directions From a Binary Tree Node to Another          |                   LCA + DFS w/ Backtracking                   | 
+|                2115. Find All Possible Recipes from Given Supplies                |      Topological sort `supplies(ingredients) -> recipes`      |
 |                  2128. Remove All Ones With Row and Column Flips                  |                  Math, 0110 == 0110 == 1001                   | 
