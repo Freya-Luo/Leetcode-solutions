@@ -117,6 +117,7 @@
 |                       1167. Minimum Cost to Connect Sticks                        |                              PQ                               |   
 |                      1192. Critical Connections in a Network                      |                   Tarjan' Algo / lowdist[]                    |                  
 |                         1202. Smallest String With Swaps                          |                              UF                               |              
+|                 1209. Remove All Adjacent Duplicates in String II                 |                      Stack stores count                       |
 |             1218. Longest Arithmetic Subsequence of Given Difference              |                              DP                               |           
 |            1263. Minimum Moves to Move a Box to Their Target Location             |                  BFS (nested, box & player)                   |           
 |                          1268. Search Suggestions System                          |                           Sort + BS                           |  
