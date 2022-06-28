@@ -64,6 +64,7 @@
 |                              695. Max Area of Island                              |                              DFS                              |             
 |                              707. Design Linked List                              |                      Double Linked List                       |            
 |                  708. Insert into a Sorted Circular Linked List                   |                          2 Pointers                           | 
+|                                  716. Max Stack                                   |                 Double Linked List + TreeMap                  |
 |                                721. Accounts Merge                                |                 Union Find (union list index)                 | 
 |                                  733. Flood Fill                                  |                              BFS                              |              
 |                              743. Network Delay Time                              |                           Dijkstra                            |        
