@@ -4,6 +4,7 @@
 |:---------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
 |                              42. Trapping Rain Water                              |                MonoStack / DP(Bidir find_max)                 | 
 |                               44. Wildcard Matching                               |       Backtrack / DP (add 1 more char to `*` to check)        | 
+|                              68. Text Justification                               |                            Greedy                             |
 |                                 71. Simplify Path                                 |                             Stack                             |     
 |                                 72. Edit Distance                                 |                DP (delete (insert) / replace )                |       
 |                        84. Largest Rectangle in Histogram                         |                        DP / Mono stack                        |         
