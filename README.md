@@ -54,6 +54,7 @@
 |                             547. Number of Provinces                              |                   DFS base on N not (i, j)                    |              
 |                  562. Longest Line of Consecutive One in Matrix                   |       3D DP `3rd dimension stores max in 4 directions`        |
 |                       583. Delete Operation for Two Strings                       |                              DP                               |               
+|                         588. Design In-Memory File System                         |                      Trie dir/file node                       |
 |                         636. Exclusive Time of Functions                          |                       stack (func call)                       | 
 |                          669. Trim a Binary Search Tree                           |                        Post-order Trim                        |            
 |                                 670. Maximum Swap                                 |         Backwards / Forwards (last occurrence index)          | 
