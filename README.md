@@ -73,6 +73,7 @@
 |                               740. Delete and Earn                                |                         DP by TreeMap                         |              
 |                           746. Min Cost Climbing Stairs                           |                              DP                               |                 
 |                              767. Reorganize String                               |                   Space-separated Insertion                   |          
+|                             772. Basic Calculator III                             |                     2 Stacks `nums, ops`                      |
 |                       787. Cheapest Flights Within K Stops                        |                    Dijkstra / Bellman-Ford                    |               
 |                          790. Domino and Tromino Tiling                           |                    DP (two filling states)                    |           
 |                              791. Custom Sort String                              |                          Bucket Sort                          | 
