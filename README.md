@@ -44,6 +44,7 @@
 |                                  403. Frog Jump                                   |                    DFS/DP(HashMap, Array)                     |     
 |                           410. Split Array Largest Sum                            |                      DP / Binary Search                       |   
 |           426. Convert Binary Search Tree to Sorted Doubly Linked List            |                      In-order traversal                       |          
+|                           432. All O`one Data Structure                           |    Double Linked List `(Node has a set of strs)` + HashMap    |
 |                                 437. Path Sum III                                 |                       DFS + Prefix Sum                        |          
 |                              472. Concatenated Words                              |                      Sort, then DFS / DP                      |  
 |                              498. Diagonal Traverse                               |                      diag index are same                      | 

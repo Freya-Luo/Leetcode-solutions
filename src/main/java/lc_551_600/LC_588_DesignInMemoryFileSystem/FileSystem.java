@@ -3,7 +3,7 @@ package lc_551_600.LC_588_DesignInMemoryFileSystem;
 import java.util.*;
 
 class FileSystem {
-    // Trie
+    // Trie. Note: starting from index 1 as levels[0] is ""
     class INode {
         String content = "";
         boolean isfile;
@@ -29,7 +29,6 @@ class FileSystem {
             files.add(levels[levels.length - 1]);
             return files;
         } else {
-            System.out.print(r.children.keySet() + " ");
             files.addAll(r.children.keySet());
             Collections.sort(files); // O(klogk)
             return files;
