@@ -27,6 +27,7 @@
 |                            249. Group Shifted Strings                             |                          Hash String                          | 
 |                               269. Alien Dictionary                               |    Topological Sort `only edged 1st non-matched char pair`    | 
 |                               279. Perfect Squares                                |                           DP / BFS                            |    
+|                                 289. Game of Life                                 |                       Denote INT states                       |
 |                        300. Longest Increasing Subsequence                        |                           DP (LIS)                            |         
 |                          301. Remove Invalid Parentheses                          |                BFS (node storing whole string)                |
 |                        304. Range Sum Query 2D - Immutable                        |                        DP (matrix sum)                        |                  
