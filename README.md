@@ -75,6 +75,7 @@
 |                              735. Asteroid Collision                              |                     Stack `- + collision`                     |
 |                              743. Network Delay Time                              |                           Dijkstra                            |        
 |                               740. Delete and Earn                                |                         DP by TreeMap                         |              
+|                           745. Prefix and Suffix Search                           |                    pref + "{" + suff, Trie                    |
 |                           746. Min Cost Climbing Stairs                           |                              DP                               |                 
 |                              767. Reorganize String                               |                   Space-separated Insertion                   |          
 |                             772. Basic Calculator III                             |                     2 Stacks `nums, ops`                      |
