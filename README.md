@@ -36,6 +36,7 @@
 |                                312. Burst Balloons                                |                              DP                               |         
 |                     315. Count of Smaller Numbers After Self                      |                      Merge Sort / BITree                      |    
 |                     317. Shortest Distance from All Buildings                     | BFS, decrement visisted cells to represent the x-th round BFS | 
+|            323. Number of Connected Components in an Undirected Graph             |                              UF                               |
 |                     329. Longest Increasing Path in a Matrix                      |                DFS w/ Memo / Topological sort                 | 
 |                            332. Reconstruct Itinerary                             |                       DFS/Eulerian Path                       |   
 |                               337. House Robber III                               |         DFS (int[] return w/o Memo) / (map with memo)         |      
