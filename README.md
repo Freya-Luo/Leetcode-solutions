@@ -39,6 +39,7 @@
 |            323. Number of Connected Components in an Undirected Graph             |                              UF                               |
 |                     329. Longest Increasing Path in a Matrix                      |                DFS w/ Memo / Topological sort                 | 
 |                            332. Reconstruct Itinerary                             |                       DFS/Eulerian Path                       |   
+|                             333. Largest BST Subtree                              |               Post-order (Node{max, min, size})               |
 |                               337. House Robber III                               |         DFS (int[] return w/o Memo) / (map with memo)         |      
 |                            339. Nested List Weight Sum                            |                            DFS/BFS                            |             
 |                          364. Nested List Weight Sum II                           |                            DFS/BFS                            |       
