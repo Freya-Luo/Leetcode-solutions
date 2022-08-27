@@ -1,4 +1,4 @@
-package lc_2101.LC_2128_RemoveAllWithRowandColumnFlips;
+package lc_2000_.LC_2128_RemoveAllWithRowandColumnFlips;
 
 /**
  * Math question.

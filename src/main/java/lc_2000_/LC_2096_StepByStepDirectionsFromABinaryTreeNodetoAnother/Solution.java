@@ -1,4 +1,4 @@
-package lc_2051_2100.LC_2096_StepByStepDirectionsFromABinaryTreeNodetoAnother;
+package lc_2000_.LC_2096_StepByStepDirectionsFromABinaryTreeNodetoAnother;
 
 class TreeNode {
     int val;

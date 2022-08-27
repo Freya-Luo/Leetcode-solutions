@@ -1,4 +1,4 @@
-package lc_2101.LC_2115_FindAllPossibleRecipesfromGivenSupplies;
+package lc_2000_.LC_2115_FindAllPossibleRecipesfromGivenSupplies;
 
 import java.util.*;
 
