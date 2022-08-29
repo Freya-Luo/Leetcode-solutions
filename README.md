@@ -150,6 +150,7 @@
 |                  1868. Product of Two Run-Length Encoded Arrays                   |                         Two Pointers                          |
 |                               1891. Cutting Ribbons                               |                         Binary Search                         | 
 |                     1937. Maximum Number of Points with Cost                      |         DP, dp\[i - 1\] stores the comparison result          | 
+|                               2013. Detect Squares                                |                 Square (find diagonal point)                  | 
 |                           2034. Stock Price Fluctuation                           |              Two sorted data structure (TreeMap)              | 
 |         2096. Step-By-Step Directions From a Binary Tree Node to Another          |                   LCA + DFS w/ Backtracking                   | 
 |                2115. Find All Possible Recipes from Given Supplies                |      Topological sort `supplies(ingredients) -> recipes`      |
