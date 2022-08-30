@@ -155,3 +155,4 @@
 |         2096. Step-By-Step Directions From a Binary Tree Node to Another          |                   LCA + DFS w/ Backtracking                   | 
 |                2115. Find All Possible Recipes from Given Supplies                |      Topological sort `supplies(ingredients) -> recipes`      |
 |                  2128. Remove All Ones With Row and Column Flips                  |                  Math, 0110 == 0110 == 1001                   | 
+ |                     2158. Amount of New Area Painted Each Day                     |                   TreeMap + Merge Intervals                   | 
